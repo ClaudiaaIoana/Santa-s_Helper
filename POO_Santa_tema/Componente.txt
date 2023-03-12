@@ -1,0 +1,5 @@
+MotorMasinuta: 104432: diesel black <20,10> 10
+StdComponent: 104487: wheel white <20,20>
+StdComponent: 104536: dress prink <30,5>
+StdComponent: 104886: heels black <3,1>
+MotorMasinuta: 105114: gaz grey <20,10> 10
